@@ -29,6 +29,7 @@ namespace API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped<IProductRepository, ProductRepository>();
+            services.AddScoped(typeof(IGeneticRepository<>), (typeof(GeneticRepository<>)));
             services.AddControllers();
             services.AddDbContext<StoreContext>(x 
                 => x.UseSqlite(_config.GetConnectionString("DefaultConnection")));
