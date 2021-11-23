@@ -16,7 +16,6 @@ export class ProductItemComponent implements OnInit {
   }
 
   addItemToBasket() {
-    debugger;
     this.basketService.addItemToBasket(this.product, 1);
   }
 
