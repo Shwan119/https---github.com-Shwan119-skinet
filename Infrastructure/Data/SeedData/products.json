@@ -1,73 +1,73 @@
 [
   {
-    "Name": "Angular Speedster Board 2000",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Name": "Men's Dri-FIT Long-Sleeve T-Shirt",
+    "Description": "In a classic fit for a relaxed, easy feel, this long-sleeve Nike T-shirt features Dri-FIT moisture wicking technology to help keep you cool, dry and ahead of the game.",
     "Price": 200,
-    "PictureUrl": "images/products/sb-ang1.png",
+    "PictureUrl": "images/products/sb-ang1.webp",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
   {
-    "Name": "Green Angular Board 3000",
-    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Name": "Men's Graphic Long-Sleeve T-Shirt",
+    "Description": "Stay dry and feel fresh in this Nike Dri-FIT T-Shirt, in a lightweight moisture-wicking fabric with graphics at the front and back.",
     "Price": 150,
-    "PictureUrl": "images/products/sb-ang2.png",
+    "PictureUrl": "images/products/sb-ang2.webp",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
   {
-    "Name": "Core Board Speed Rush 3",
+    "Name": "Women's POLO T-Shirt",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
     "Price": 180,
-    "PictureUrl": "images/products/sb-core1.png",
+    "PictureUrl": "images/products/sb-core1.jpg",
     "ProductTypeId": 1,
     "ProductBrandId": 2
   },
   {
-    "Name": "Net Core Super Board",
+    "Name": "Women's POLO T-Shirt",
     "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
     "Price": 300,
-    "PictureUrl": "images/products/sb-core2.png",
+    "PictureUrl": "images/products/sb-core2.jpg",
     "ProductTypeId": 1,
     "ProductBrandId": 2
   },
   {
-    "Name": "React Board Super Whizzy Fast",
+    "Name": "Levi's® iconic T-Shirt",
     "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 250,
-    "PictureUrl": "images/products/sb-react1.png",
+    "PictureUrl": "images/products/sb-react1.webp",
     "ProductTypeId": 1,
     "ProductBrandId": 4
   },
   {
-    "Name": "Typescript Entry Board",
+    "Name": "Leopard-Print Logo T-Shirt",
     "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
     "Price": 120,
-    "PictureUrl": "images/products/sb-ts1.png",
+    "PictureUrl": "images/products/sb-ts1.webp",
     "ProductTypeId": 1,
     "ProductBrandId": 5
   },
   {
-    "Name": "Core Blue Hat",
+    "Name": "Men's Estate-Rib Cotton",
     "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 10,
-    "PictureUrl": "images/products/hat-core1.png",
+    "PictureUrl": "images/products/hat-core1.webp",
     "ProductTypeId": 2,
     "ProductBrandId": 2
   },
   {
-    "Name": "Green React Woolen Hat",
+    "Name": "SHORT SLEEVE SWEATER",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
     "Price": 8,
-    "PictureUrl": "images/products/hat-react1.png",
+    "PictureUrl": "images/products/hat-react1.webp",
     "ProductTypeId": 2,
     "ProductBrandId": 4
   },
   {
-    "Name": "Purple React Woolen Hat",
+    "Name": "Graphic Crewneck Sweatshirt",
     "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 15,
-    "PictureUrl": "images/products/hat-react2.png",
+    "PictureUrl": "images/products/hat-react2.webp",
     "ProductTypeId": 2,
     "ProductBrandId": 4
   },
